@@ -35,7 +35,7 @@ Industrial Sector ESG & Stock Market Dataset
 
 Dataset Source:
 
-[Industrial Sector ESG Dataset (Kaggle)](INSERT_DATASET_LINK_HERE)
+[Industrial Sector ESG Dataset (Kaggle)](https://www.kaggle.com/datasets/jenniferaduffy/industrial-sector-esg-ratings-and-stock-market-data)
 
 ### External Data Enrichment
 
