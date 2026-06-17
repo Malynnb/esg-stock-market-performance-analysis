@@ -28,8 +28,8 @@ Using ESG ratings, stock market performance metrics, and external financial data
 
 Industrial Sector ESG & Stock Market Dataset
 
-* 388 industrial companies
-* ESG performance scores
+* 700+ industrial companies
+* ESG scores and market performance metrics
 * Industry and subindustry classifications
 * 52-week stock return performance
 
@@ -77,7 +77,7 @@ Additional company-level financial data was retrieved for 322 companies, includi
 
 ### Visualize
 
-* Interactive dashboard development in Looker Studio
+* Interactive dashboard development in Data Studio
 
 ---
 
