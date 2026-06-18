@@ -111,15 +111,13 @@ ORDER BY avg_esg DESC;
 -- Most companies fall within the Medium ESG category
 -- High ESG companies achieved stronger average 52-week returns
 -- ESG performance varies across subindustries
--- Company-level analysis revealed differences in financial performance among firms with similar ESG ratings
 
 
 
 --  SUMMARY
 -- Dataset exploration and validation
 -- ESG distribution analysis
+-- API data validation
 -- ESG group performance comparison
 -- Subindustry benchmarking
--- ompany-level analysis
--- API data validation
 -- Dashboard support queries
