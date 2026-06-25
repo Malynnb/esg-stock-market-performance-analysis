@@ -94,7 +94,7 @@ Additional company-level financial data was retrieved for 322 companies, includi
 
 * Matplotlib
 * Seaborn
-* Looker Studio
+* Data Studio
 
 ### Data Sources & Integration
 
@@ -176,9 +176,13 @@ Developed company-level exploration features incorporating:
 
 ---
 
-## Dashboard
+## 📊 Dashboard Preview
 
-Dashboard screenshots and interactive dashboard link will be added soon.
+<p align="center">
+  <img src="dashboard%20pg1.png" width="32%">
+  <img src="dashboard%20pg2.png" width="32%">
+  <img src="dashboard%20pg3.png" width="32%">
+</p>
 
 ---
 
