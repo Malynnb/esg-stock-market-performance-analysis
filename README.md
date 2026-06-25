@@ -186,9 +186,9 @@ Developed company-level exploration features incorporating:
 
 ---
 
-Project Presentation
+## Project Presentation
 
-🔗 [View Presentation]([https://prezi.com/view/fD4eIIjEo9A0XG5eh2rl/?referral_token=WiGIBmlnB3FN])
+🔗 [View Presentation](https://prezi.com/view/fD4eIIjEo9A0XG5eh2rl/?referral_token=WiGIBmlnB3FN)
 
 ---
 
