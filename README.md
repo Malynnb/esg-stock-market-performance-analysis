@@ -192,7 +192,5 @@ Developed company-level exploration features incorporating:
 
 ---
 
-## Author
 
-**Malynn Buranawichian**
 
