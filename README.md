@@ -196,4 +196,3 @@ Developed company-level exploration features incorporating:
 
 **Malynn Buranawichian**
 
-Aspiring Data Analyst passionate about Business Intelligence, Data Visualization, ESG Analytics, and data-driven decision making.
