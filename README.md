@@ -2,7 +2,7 @@
 Analyzing ESG ratings and stock market performance using Python, SQL, APIs, and Data Studio.
 
 
-# 🌱 ESG & Market Performance Intelligence Dashboard
+# ESG & Market Performance Intelligence Dashboard
 
 ## Project Overview
 
@@ -176,7 +176,7 @@ Developed company-level exploration features incorporating:
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <p align="center">
   <img src="dashboard%20pg1.png" width="32%">
